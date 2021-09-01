@@ -1,0 +1,9 @@
+<?php
+    include('models/session.php');
+    include('models/carritodb.php');
+    include('models/usuarios.php');
+    include('view/header.html');
+    include('view/navbar/navbar.php');
+    include('view/body.php');
+    include('view/footer.php');
+?>
